@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">CatChat</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="inbox_fragment">Inbox Fragment</string>
+    <string name="draft_fragment">Draft Fragment</string>
+    <string name="sent_fragment">Sent Items Fragment</string>
+    <string name="trash_fragment">Hello blank fragment</string>
 </resources>
