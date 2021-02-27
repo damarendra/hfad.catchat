@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/layout/fragment_sent_items.xml" value="0.33695652173913043" />
         <entry key="app/src/main/res/layout/fragment_trash.xml" value="0.33695652173913043" />
         <entry key="app/src/main/res/layout/nav_header.xml" value="0.34270833333333334" />
-        <entry key="app/src/main/res/layout/toolbar_main.xml" value="0.33695652173913043" />
+        <entry key="app/src/main/res/layout/toolbar_main.xml" value="0.25" />
         <entry key="app/src/main/res/menu/menu_nav.xml" value="0.34270833333333334" />
       </map>
     </option>
