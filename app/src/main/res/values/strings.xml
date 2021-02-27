@@ -7,4 +7,16 @@
 
     <string name="help_activity">Help Activity</string>
     <string name="feedback_activity">Feedback Activity</string>
+
+    <string name="nav_header_title">CatChat</string>
+    <string name="nav_header_username">spot@catchat.com</string>
+
+    <!-- Menu Navigation -->
+    <string name="nav_inbox">Messagez</string>
+    <string name="nav_drafts">Draftz</string>
+    <string name="nav_sent">Sent Messagez</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halp</string>
+    <string name="nav_feedback">Giv us Feedback</string>
 </resources>
